@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4188C233-B9E3-46AF-AEE5-DED82F644CAC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C45F9DA7-2CD7-4B3E-893E-482FB8D99F2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViperDemoProject/NoticeModule/view/ProductListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "showProduct(productArray:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C45F9DA7-2CD7-4B3E-893E-482FB8D99F2C - a5ab6059e75ba719"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ViperDemoProject.ProductListVC.showProduct(productArray: Swift.Array&lt;ViperDemoProject.Products&gt;) -&gt; ()"
+                  moduleName = "ViperDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/belocum-6/Desktop/Project/Other/ViperDemoProject/ViperDemoProject/NoticeModule/view/ProductListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "C45F9DA7-2CD7-4B3E-893E-482FB8D99F2C - a5ab6059e75ba719"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ViperDemoProject.ProductListVC.showProduct(productArray: Swift.Array&lt;ViperDemoProject.Products&gt;) -&gt; ()"
+                  moduleName = "ViperDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/belocum-6/Desktop/Project/Other/ViperDemoProject/ViperDemoProject/NoticeModule/view/ProductListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFA65D9A-104A-431F-87B2-1DEF8169F8B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViperDemoProject/NoticeModule/view/ProductListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7E74EAC-558E-423C-BD42-6B4377450CF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViperDemoProject/NoticeModule/view/ProductListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
